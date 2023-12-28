@@ -1,3 +1,4 @@
-# BOOKSHELF APP TRAINING USING JAVASCRIPT DOM
+# BOOKSHELF APP
 
 30 November 2023 
+Exploring web localstorage and DOM
